@@ -1,5 +1,6 @@
 opensearch.xml
 _site
+.jekyll-metadata
 .DS_Store
 .bundle
 *#*

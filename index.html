@@ -1,0 +1,19 @@
+---
+layout: default
+title: Shaqman
+---
+
+<div id="home">
+  <h1>Posts</h1>
+  <ul class="posts">
+    <li>Still empty here.</li>
+  </ul>
+
+  <h1>Public bookmark</h1>
+  <h3>Knowledge Base</h3>
+  <ul>
+  {% for link in site.data.links %}
+    <li><a href="{{ link.url }}">{{ link.url }}</a><br />{{ link.description }}</li>
+  {% endfor %}
+  </ul>
+</div>
