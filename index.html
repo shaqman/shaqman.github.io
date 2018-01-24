@@ -10,10 +10,12 @@ title: Shaqman
   </ul>
 
   <h1>Public bookmark</h1>
-  <h3>Knowledge Base</h3>
-  <ul>
   {% for link in site.data.links %}
-    <li><a href="{{ link.url }}">{{ link.url }}</a><br />{{ link.description }}</li>
+    <h3>{{ link.category }} </h3>
+    <ul>
+    {% for item in link.items %}
+      <li><a href="{{ item.url }}">{{ item.url }}</a><br />{{ item.description }}</li>
+    {% endfor %}
   {% endfor %}
   </ul>
 </div>

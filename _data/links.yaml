@@ -1,2 +1,4 @@
-- url: 'https://github.com/googlesamples'
-  description: 'Google samples for various google products'
+- category: Knowledge Base
+  items: 
+  - url: 'https://github.com/googlesamples'
+    description: 'Google samples for various google products'
