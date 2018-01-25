@@ -2,10 +2,22 @@
   items: 
   - url: 'https://github.com/googlesamples'
     description: 'Google samples for various google products'
+  - url: 'https://plato.stanford.edu/index.html'
+    description: 'The Stanford Encyclopedia of Philosophy'
 - category: Interesting Code
   items: 
   - url: 'https://github.com/M66B/BackPackTrackII'
     description: 'Location tracking android app'
+  - url: 'https://github.com/rickfarmer/android-vm'
+    description: 'Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts. '
+- category: Interesting Projects
+  items: 
+  - url: 'https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/index.shtml'
+    description: 'The Millennium Simulation Project'
+- category: Resources
+  items: 
+  - url: 'https://www.flaticon.com/'
+    description: 'The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.'
 - category: Fun
   items: 
   - url: 'http://bakacan.id'
@@ -16,4 +28,9 @@
     description: 'The Pirate Bay'
   - url: 'http://kpynyvym6xqi7wz2.onion'
     description: 'Random Links'
-    
+- category: Random Stuff
+  items: 
+  - url: 'http://the3doodler.com'
+    description: 'Freestyle 3D pen'
+  - url: 'http://iheartintelligence.com/2014/01/18/beat-the-system-40-free-educational-websites/'
+    description: '40 Free Educational Websites'
