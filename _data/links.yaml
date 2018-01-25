@@ -2,3 +2,16 @@
   items: 
   - url: 'https://github.com/googlesamples'
     description: 'Google samples for various google products'
+- category: Interesting Code
+  items: 
+  - url: 'https://github.com/M66B/BackPackTrackII'
+    description: 'Location tracking android app'
+- category: Fun
+  items: 
+  - url: 'http://bakacan.id'
+    description: 'Naruto, etc with Indonesian Subtitle'
+- category: Dark Web
+  items: 
+  - url: 'http://uj3wazyk5u4hnvtk.onion/'
+    description: 'The Pirate Bay'
+    
