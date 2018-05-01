@@ -22,6 +22,8 @@
   items: 
   - url: 'http://bakacan.id'
     description: 'Naruto, etc with Indonesian Subtitle'
+  - url: 'http://www.27bslash6.com'
+    description: 'Hilarious stories'
 - category: Dark Web
   items: 
   - url: 'http://uj3wazyk5u4hnvtk.onion/'
@@ -34,3 +36,7 @@
     description: 'Freestyle 3D pen'
   - url: 'http://iheartintelligence.com/2014/01/18/beat-the-system-40-free-educational-websites/'
     description: '40 Free Educational Websites'
+  - url: 'https://glitch.com'
+    description: 'Glitch is the friendly community where you’ll build the app of your dreams.'
+  - url: 'https://rapidminer.com/'
+    description: 'Easy tool for creating machine learning models'
