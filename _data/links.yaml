@@ -4,6 +4,8 @@
     description: 'Google samples for various google products'
   - url: 'https://plato.stanford.edu/index.html'
     description: 'The Stanford Encyclopedia of Philosophy'
+  - url: 'https://msdn.microsoft.com/magazine/msdn-magazine-issues'
+    description: 'MSDN Magazine collections'
 - category: Interesting Code
   items: 
   - url: 'https://github.com/M66B/BackPackTrackII'
