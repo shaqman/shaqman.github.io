@@ -6,6 +6,8 @@
     description: 'The Stanford Encyclopedia of Philosophy'
   - url: 'https://msdn.microsoft.com/magazine/msdn-magazine-issues'
     description: 'MSDN Magazine collections'
+  - url: 'https://choosealicense.com/licenses'
+    descriptiom: 'License for dummies'
 - category: Interesting Code
   items: 
   - url: 'https://github.com/M66B/BackPackTrackII'
