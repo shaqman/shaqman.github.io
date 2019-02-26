@@ -46,3 +46,7 @@
     description: 'Easy tool for creating machine learning models'
   - url: 'https://www.ilovepdf.com/'
     description: 'Good online tool for splitting pdf and other stuff related to pdf'
+- category: Tools
+  items: 
+  - url: 'https://www.mp3juices.cc/'
+    description: 'MP3 Downloader from various sources'
