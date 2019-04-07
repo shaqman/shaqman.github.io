@@ -49,12 +49,12 @@
 - category: Tools
   items: 
   - url: 'https://www.mp3juices.cc/'
-    description: 'MP3 Downloader from various sources'
+    description: MP3 Downloader from various sources
 - category: Tafseer
   items: 
   - url: 'http://www.englishtafsir.com/'
-    description: 'Sayyid Abul Ala Maududi - Tafhim al-Qur''an - The Meaning of the Qur'an'
+    description: Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Qur'an
   - url: 'https://www.altafsir.com/'
-    description: 'Al Tafsir.com - Tafseer Holy Quran from all Tafseer Schools, Quran Translations, Quran Recitations, Quran Interpretation (Tafseer), Quran Sciences, and Love In Quran'
+    description: Al Tafsir.com - Tafseer Holy Quran from all Tafseer Schools, Quran Translations, Quran Recitations, Quran Interpretation (Tafseer), Quran Sciences, and Love In Quran
   - url: 'http://www.qtafsir.com'
-    description: 'Quran Tafsir Ibn Kathir'
+    description: Quran Tafsir Ibn Kathir
