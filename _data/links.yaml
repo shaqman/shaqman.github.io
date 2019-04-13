@@ -50,6 +50,8 @@
   items: 
   - url: 'https://www.mp3juices.cc/'
     description: MP3 Downloader from various sources
+  - url: 'https://www.photopea.com/'
+    description: Online Image Editor
 - category: Tafseer
   items: 
   - url: 'http://www.englishtafsir.com/'
