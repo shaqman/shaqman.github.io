@@ -52,7 +52,7 @@
     description: MP3 Downloader from various sources
   - url: 'https://www.photopea.com/'
     description: Online Image Editor
-- category: Tafseer
+- category: Islamic References
   items: 
   - url: 'http://www.englishtafsir.com/'
     description: Sayyid Abul Ala Maududi - Tafhim al-Qur'an - The Meaning of the Qur'an
@@ -60,3 +60,5 @@
     description: Al Tafsir.com - Tafseer Holy Quran from all Tafseer Schools, Quran Translations, Quran Recitations, Quran Interpretation (Tafseer), Quran Sciences, and Love In Quran
   - url: 'http://www.qtafsir.com'
     description: Quran Tafsir Ibn Kathir
+  - url: 'http://v2.quranflash.com/en/download/index.html'
+    description: Quran Flash
