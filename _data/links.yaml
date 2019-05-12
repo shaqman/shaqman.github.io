@@ -62,3 +62,7 @@
     description: Quran Tafsir Ibn Kathir
   - url: 'http://v2.quranflash.com/en/download/index.html'
     description: Quran Flash
+  - url: 'https://islamqa.info/en'
+    description: Salafi QA forum
+  - url: 'https://islamqa.org/'
+    description: Hambali QA Forum
