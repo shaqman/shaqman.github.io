@@ -36,6 +36,10 @@
     description: 'Curated toplist of everything Otaku culture'
   - url: 'https://comick.app/comic/00-one-piece'
     description: 'One Piece'
+  - url: 'https://onstream.so'
+    description: 'Free App for movies & TV shows online in HD on any device'
+  - url: 'https://1337x.to'
+    description: 'Torrent search engine'
 - category: Dark Web
   items: 
   - url: 'http://uj3wazyk5u4hnvtk.onion/'
