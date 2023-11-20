@@ -66,6 +66,10 @@
     description: Online Image Editor
   - url: 'https://immich.app'
     description: 'Self-hosted backup solution for photos and videos on mobile device'
+  - url: 'https://www.zerotier.com/'
+    description: 'Securely connect any device, anywhere.'
+  - url: 'https://invidious.io/'
+    description: 'An open source alternative front-end to YouTube.'
 - category: Islamic References
   items: 
   - url: 'http://www.englishtafsir.com/'
