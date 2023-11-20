@@ -8,16 +8,22 @@
     description: 'MSDN Magazine collections'
   - url: 'https://choosealicense.com/licenses'
     descriptiom: 'License for dummies'
-- category: Interesting Code
+- category: Code
   items: 
   - url: 'https://github.com/M66B/BackPackTrackII'
     description: 'Location tracking android app'
   - url: 'https://github.com/rickfarmer/android-vm'
     description: 'Automated provisioning and configuration of an Ubuntu VM containing the Android development environment, including Android ADT Bundle with SDK, Eclipse & the Android NDK using the Vagrant DevOps tool with Chef and shell-scripts. '
-- category: Interesting Projects
+- category: Projects
   items: 
   - url: 'https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/index.shtml'
     description: 'The Millennium Simulation Project'
+  - url: 'https://github.com/decipher3114/Revancify'
+    description: 'A TUI wrapper for Revanced CLI with amazing features.'
+  - url: 'https://github.com/HardcodedCat/termux-monet'
+    description: 'An unofficial, modified fork of Termux, an Android terminal application and Linux environment, with Monet Theming Implementations'
+  - url: 'https://github.com/ThePBone/awesome-shizuku'
+    description: 'Collection of shizuku based tools'
 - category: Resources
   items: 
   - url: 'https://www.flaticon.com/'
@@ -58,6 +64,8 @@
     description: MP3 Downloader from various sources
   - url: 'https://www.photopea.com/'
     description: Online Image Editor
+  - url: 'https://immich.app'
+    description: 'Self-hosted backup solution for photos and videos on mobile device'
 - category: Islamic References
   items: 
   - url: 'http://www.englishtafsir.com/'
