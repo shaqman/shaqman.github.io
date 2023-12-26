@@ -70,6 +70,8 @@
     description: 'Securely connect any device, anywhere.'
   - url: 'https://invidious.io/'
     description: 'An open source alternative front-end to YouTube.'
+  - url: 'https://anytype.io/'
+    description: 'An open source alternative to Notion'
 - category: Islamic References
   items: 
   - url: 'http://www.englishtafsir.com/'
